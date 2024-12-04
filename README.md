@@ -9,7 +9,7 @@ About Me
 
 Skills
 
-Programming: Python, R, SQL
+Programming: Python, SQL
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 Tools: Jupyter Notebooks, Git, Tableau
 Other: Machine Learning, Data Cleaning, Data Visualization, Statistical Analysis
